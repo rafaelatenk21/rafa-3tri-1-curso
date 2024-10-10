@@ -1,23 +1,35 @@
 criaCartao(
-    'curiosidade',
-    'O que é Python?',
-    'O rafa 3tri 1 cursoPython é uma linguagem de programação'
+    'Corpo humano',
+    'Quantos ossos tem no corpo humano?',
+    '206 ossos '
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Corpo humano',
+    'Quantos dentes tem um bebe?',
+    '20 dentes de leite'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Corpo humano',
+    'Quantos litros de sangue tem um adulto?',
+    '4,5 litros á 6 litros'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Corpo humano',
+    'Quantos litros de sangue tem um bebê?',
+    '300 á 400 mililitros'
+)
+
+criaCartao(
+    'Corpo humano',
+    'Qual o menor órgão do corpo?',
+    'Glandula pineal 5 á 8 mililimetro'
+)
+
+criaCartao(
+    'Corpo humano',
+    'Qual o maior órgão do corpo?',
+    'A Pelé'
 )
